@@ -1,7 +1,7 @@
 
 # My Developer Portfolio
-Welcome to my personal portfolio!
-This project showcases my skills, projects, and experiences as a developer. Built with passion and a desire to continuously learn and grow, this site acts as both a resume and a creative canvas.
+### Welcome to my personal portfolio!
+This portfolio showcases my journey, projects, and the skills I've honed along the way.
 
 # Live Demo
 https://mokshk.vercel.app/
