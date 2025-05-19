@@ -183,7 +183,7 @@ export const Certificate = [
     job: "HackIndia",
     date: "May-2025",
     contents: [
-      "🏆 1st Winner of HackIndia 2025 Spark 7",
+      "🏆  Secured 1st Position in HackIndia 2025 Spark 7",
       
     ],
   },
