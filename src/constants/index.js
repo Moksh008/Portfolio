@@ -213,6 +213,15 @@ export const reviews = [
 export const Certificate = [
   {
     title: "",
+    job: " GenAI Hackathon by Jazzee Technologies at IIT Bhubaneswar ",
+    date: "July-2025",
+    contents: [
+      "🏆  Secured 1st Position in GenAI Hackathon among 500+ innovators and 125+ teams across India!",
+      
+    ],
+  },
+  {
+    title: "",
     job: "HackIndia",
     date: "May-2025",
     contents: [
