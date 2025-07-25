@@ -105,6 +105,39 @@ export const myProjects = [
       },
       
     ],
+  },
+  {
+    id: 4,
+    title: " Dermora.ai – Your AI Companion for Skin & Mental Wellness",
+    description:
+      "Dermora.ai is a full-spectrum wellness dashboard designed to support individuals managing chronic skin conditions like vitiligo, eczema, and psoriasis.",
+    subDescription: [
+      "Skin Condition Detection (Image + Symptoms)",
+      "Mood Tracking with Emotional Intelligence",
+      " Habit Tracking & Lifestyle Coaching",
+      "Mental Health Support Agent",
+    ],
+    href: "https://github.com/Moksh008",
+    logo: "",
+    image: "/assets/projects/churn.png",
+    tags: [
+      {
+        id: 1,
+        name: "Django",
+        path: "/assets/logos/django.png",
+      },
+      {
+        id: 2,
+        name: "HTML",
+        path: "/assets/logos/html.png",
+      },
+      {
+        id: 3,
+        name: "CSS",
+        path: "/assets/logos/css.png",
+      },
+      
+    ],
   }
 ];
 
