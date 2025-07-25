@@ -253,7 +253,7 @@ export const Certificate = [
 export const experiences = [
   {
     title: "Graphic Designer & Technical Team ",
-    job: "Hackathon Organisation",
+    job: "Evolve AI",
     date: "2025-Present",
     contents: [
       "As a Graphic Designer and member of the technical team at Evolve AI, the official AI-focused club of Chitkara University, I play a pivotal role in conceptualizing and executing visual content for events, workshops, and campaigns centered around artificial intelligence and emerging technologies.  ",
