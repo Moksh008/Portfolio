@@ -119,7 +119,7 @@ export const myProjects = [
     ],
     href: "https://github.com/Moksh008",
     logo: "",
-    image: "/assets/projects/churn.png",
+    image: "/assets/projects/Screenshot 2025-07-03 231005.png",
     tags: [
       {
         id: 1,
