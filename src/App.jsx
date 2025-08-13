@@ -9,6 +9,7 @@ import Projects from "./sections/Projects";
 import Experiences from "./sections/Experiences";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
+import Testimonial from "./sections/Testimonial";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Projects />
       <Experiences />
       <Certificate />
+      <Testimonial/>
       
       <Contact />
       <Footer />
